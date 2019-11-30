@@ -1,0 +1,7 @@
+dash==1.6.1
+pandas==0.25.2
+altair==3.2.0
+geopandas==0.6.2
+json==2.0.9
+shapely==1.6.4.post2
+numpy==1.17.2
